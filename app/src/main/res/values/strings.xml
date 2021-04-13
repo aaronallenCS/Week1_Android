@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week1</string>
+    <string name="introduction_text">Hello, my name is Aaron</string>
+    <string name="click_me_for_a_suprise">Click me for a suprise!</string>
+</resources>
