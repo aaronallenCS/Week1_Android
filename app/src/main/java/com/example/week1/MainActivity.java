@@ -1,5 +1,10 @@
 package com.example.week1;
 
+/*
+
+Aaron Allen, finished on 4/13/2021
+
+ */
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
